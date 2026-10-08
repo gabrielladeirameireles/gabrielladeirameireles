@@ -16,13 +16,13 @@
 
 Olá! Sou o **Gabriel Meireles**, desenvolvedor **Full Stack** apaixonado por infraestrutura, automação e arquitetura de sistemas com forte foco na cultura **DevOps**.
 
-- 🚀 **Atuação:** Desenvolvimento de soluções ponta a ponta unindo a solidez do Backend/Frontend com ambientes Linux/Unix, bancos de dados, redes e esteiras de automação.
-- 🔬 **Pesquisa & Qualidade:** Investigando o enquadramento de requisitos socioambientais no modelo normativo de qualidade de software **ISO/IEC 25010**.
-- ♟️ **Nas horas vagas:** Entusiasta de xadrez e jogos de estratégia.
+-  **Atuação:** Desenvolvimento de soluções ponta a ponta unindo a solidez do Backend/Frontend com ambientes Linux/Unix, bancos de dados, redes e esteiras de automação.
+-  **Pesquisa & Qualidade:** Investigando o enquadramento de requisitos socioambientais no modelo normativo de qualidade de software **ISO/IEC 25010**.
+-  **Nas horas vagas:** Entusiasta de xadrez e jogos de estratégia.
 
 ---
 
-### 💻 Tech Stack & Infrastructure
+###  Tech Stack & Infrastructure
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,7 +46,7 @@ Olá! Sou o **Gabriel Meireles**, desenvolvedor **Full Stack** apaixonado por in
 
 ---
 
-### 📊 System Metrics
+### Métricas do Sistema
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielladeirameireles&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -55,7 +55,7 @@ Olá! Sou o **Gabriel Meireles**, desenvolvedor **Full Stack** apaixonado por in
 
 ---
 
-### 🎮 Contribution Grid (Snake Game)
+### Cobrinha
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielladeirameireles/gabrielladeirameireles/output/github-contribution-grid-snake-dark.svg">
@@ -65,15 +65,15 @@ Olá! Sou o **Gabriel Meireles**, desenvolvedor **Full Stack** apaixonado por in
 
 ---
 
-### 🔬 Research & Ongoing Projects
+### Pesquisa
 
-* 📝 **Artigo Acadêmico em Desenvolvimento:** *Requisitos de Responsabilidade Socioambiental: Proposta de Enquadramento Normativo no Modelo ISO/IEC 25010*
+*  **Artigo Acadêmico em Desenvolvimento:** *Requisitos de Responsabilidade Socioambiental: Proposta de Enquadramento Normativo no Modelo ISO/IEC 25010*
   * **Foco:** Análise e enquadramento de requisitos de responsabilidade socioambiental no modelo normativo de qualidade de software ISO/IEC 25010.
   * **Status:** Pesquisa e redação em andamento.
 
 ---
 
-### ♟️ Chess Stats (Lichess)
+###  Estatísticas do xadrez (Lichess)
 
 <p align="center">
   <a href="https://lichess.org/@/cearense_capivara">
