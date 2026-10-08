@@ -16,7 +16,7 @@
 
 Olá! Sou o **Gabriel Meireles**, desenvolvedor **Full Stack** apaixonado por infraestrutura, automação e arquitetura de sistemas com forte foco na cultura **DevOps**.
 
-- 🚀 **Atuação:** Desenvolvimento de soluções ponta a ponta unindo a solidez do Backend/Frontend com ambientes Linux/Unix e esteiras de automação.
+- 🚀 **Atuação:** Desenvolvimento de soluções ponta a ponta unindo a solidez do Backend/Frontend com ambientes Linux/Unix, bancos de dados, redes e esteiras de automação.
 - 🔬 **Pesquisa & Qualidade:** Investigando o enquadramento de requisitos socioambientais no modelo normativo de qualidade de software **ISO/IEC 25010**.
 - ♟️ **Nas horas vagas:** Entusiasta de xadrez e jogos de estratégia.
 
@@ -30,11 +30,19 @@ Olá! Sou o **Gabriel Meireles**, desenvolvedor **Full Stack** apaixonado por in
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**DevOps & Systems**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=gnu&logoColor=white)
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Networking & Operating Systems**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
