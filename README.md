@@ -12,7 +12,7 @@
 
 ---
 
-### ⚡ About Me / Sobre Mim
+###  Sobre Mim
 
 Olá! Sou o **Gabriel Meireles**, desenvolvedor **Full Stack** apaixonado por infraestrutura, automação e arquitetura de sistemas com forte foco na cultura **DevOps**.
 
