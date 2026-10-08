@@ -12,6 +12,16 @@
 
 ---
 
+### ⚡ About Me / Sobre Mim
+
+Olá! Sou o **Gabriel Meireles**, desenvolvedor **Full Stack** apaixonado por infraestrutura, automação e arquitetura de sistemas com forte foco na cultura **DevOps**.
+
+- 🚀 **Atuação:** Desenvolvimento de soluções ponta a ponta unindo a solidez do Backend/Frontend com ambientes Linux/Unix e esteiras de automação.
+- 🔬 **Pesquisa & Qualidade:** Investigando o enquadramento de requisitos socioambientais no modelo normativo de qualidade de software **ISO/IEC 25010**.
+- ♟️ **Nas horas vagas:** Entusiasta de xadrez e jogos de estratégia.
+
+---
+
 ### 💻 Tech Stack & Infrastructure
 
 **Languages**  
