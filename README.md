@@ -50,7 +50,7 @@ Olá! Sou o **Gabriel Meireles**, desenvolvedor **Full Stack** apaixonado por in
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielladeirameireles&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielladeirameireles&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielladeirameireles&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8" width="48%" />
 </p>
 
 ---
